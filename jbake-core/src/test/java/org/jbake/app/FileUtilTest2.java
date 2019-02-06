@@ -15,7 +15,7 @@ import static org.junit.Assert.assertFalse;
 /**
  * Created by frank on 28.03.16.
  */
-public class FileUtilTest {
+public class FileUtilTest2 {
 
     @Test
     public void testGetRunningLocation() throws Exception {
